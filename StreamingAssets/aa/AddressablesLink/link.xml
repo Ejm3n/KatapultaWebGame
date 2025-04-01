@@ -14,6 +14,7 @@
     <type fullname="MenuController" preserve="all" />
     <type fullname="MultipleImagesPanelController" preserve="all" />
     <type fullname="PanelManager" preserve="all" />
+    <type fullname="PasswordPanel" preserve="all" />
     <type fullname="PlayerObject" preserve="all" />
     <type fullname="PlayerSetup" preserve="all" />
     <type fullname="PlayerTeleporterForDebug" preserve="all" />
@@ -56,7 +57,10 @@
     <type fullname="TMPro.TMP_InputField" preserve="all" />
     <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.GlyphAnchorPoint" preserve="nothing" serialized="true" />
     <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.MarkPositionAdjustment" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.MarkToBaseAdjustmentRecord" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
